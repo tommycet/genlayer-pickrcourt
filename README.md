@@ -1,6 +1,10 @@
 # 🏛️ PickrCourt — Preference Ranking Court
 
 [![Deployed on Studionet](https://img.shields.io/badge/GenLayer-Studionet_61999-blue)](https://studio.genlayer.com)
+[![Deploy with Vercel](https://img.shields.io/badge/Live_on-Vercel-black?style=flat&logo=vercel)](https://genlayer-pickrcourt.vercel.app)
+
+**🔗 Live Demo:** https://genlayer-pickrcourt.vercel.app
+
 
 **Contract:** `0x5A8a47F42D2f39cF4C42234FBF24B33428A30Dc7`
 **Network:** GenLayer Studionet (Chain 61999)
@@ -135,14 +139,14 @@ See the other projects:
 
 | dApp | Description | Contract |
 |---|---|---|
-| [DebateCourt](https://github.com/tommycet/genlayer-debatecourt) | AI debate arbitrator | `0x1615…B9A` |
-| [ClauseGuard](https://github.com/tommycet/genlayer-clauseguard) | Legal clause risk scanner | `0xdCc0…229` |
-| [PickrCourt](https://github.com/tommycet/genlayer-pickrcourt) | Preference ranking court | `0x5A8a…bDc7` |
-| [RepuScan](https://github.com/tommycet/genlayer-repuscan) | Trust signal scanner | `0x82e7…1aC2` |
-| [BioLens](https://github.com/tommycet/genlayer-biolens) | Scientific claim analyzer | `0x7CFa…280A` |
-| [SentOracle](https://github.com/tommycet/genlayer-sentioracle) | Sentiment oracle | `0xB099…55cf` |
-| [CodeCourt](https://github.com/tommycet/genlayer-codecourt) | Code review court | `0xA218…78cA` |
-| [NomNomLens](https://github.com/tommycet/genlayer-nomnomlens) | Nutrition verdict | `0x29e1…75a5` |
+| [DebateCourt](https://genlayer-debatecourt.vercel.app) | AI debate arbitrator | `0x1615…B9A` |
+| [ClauseGuard](https://genlayer-clauseguard.vercel.app) | Legal clause risk scanner | `0xdCc0…229` |
+| [PickrCourt](https://genlayer-pickrcourt.vercel.app) | Preference ranking court | `0x5A8a…bDc7` |
+| [RepuScan](https://genlayer-repuscan.vercel.app) | Trust signal scanner | `0x82e7…1aC2` |
+| [BioLens](https://genlayer-biolens.vercel.app) | Scientific claim analyzer | `0x7CFa…280A` |
+| [SentOracle](https://genlayer-sentioracle.vercel.app) | Sentiment oracle | `0xB099…55cf` |
+| [CodeCourt](https://genlayer-codecourt.vercel.app) | Code review court | `0xA218…78cA` |
+| [NomNomLens](https://genlayer-nomnomlens.vercel.app) | Nutrition verdict | `0x29e1…75a5` |
 
 ## 📜 License
 
